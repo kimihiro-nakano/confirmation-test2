@@ -30,7 +30,7 @@ Laravel環境構築
 
 ER図
 
-![index drawio](https://github.com/kimihiro-nakano/confirmation-test/assets/162784504/1e78523d-69ca-40d0-aa68-c84781a22f87)
+![index drawio](https://github.com/kimihiro-nakano/confirmation-test/assets/162784504/28876414-e81f-4ddb-a093-529921162ec9)
 
 
 URL
