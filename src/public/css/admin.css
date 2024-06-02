@@ -1,0 +1,80 @@
+.header-logout__button {
+    position: absolute;
+    top: 25px;
+    right: 10px;
+}
+
+.header-logout__button-submit {
+    padding: 5px;
+    width: 60px;
+    height: 30%;
+    border: 1px solid #c5b9b0;
+    border-radius: 3px;
+    background: #f1ece7;
+    color: #8b7969;
+    cursor: pointer;
+}
+
+
+.admin__content {
+    margin: 0 auto;
+    padding: 30px 50px;
+    border-top: 1px solid #c5b9b0;
+    max-width: 1230px;
+}
+
+.content__title {
+    margin-bottom: 40px;
+    color: #8b7969;
+    text-align: center;
+}
+
+.content__title h2 {
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+}
+
+.content__navbar {
+    margin: 0;
+    width: 80%;
+}
+
+.search-form__item-input {
+    margin: 10px 0;
+    width: 40%;
+    padding: 10px;
+    border: 1px solid #8b7969;
+    border-radius: 3px;
+    background-color: #f4f4f4;
+    color: #8b7969;
+    ;
+}
+
+svg.w-5.h-5 {
+    width: 30px;
+    height: 30px;
+}
+
+
+details>summary {
+    padding: 2px 6px;
+    width: 15em;
+    background-color: #f4f4f4;
+    border: 1px solid #8b7969;
+    cursor: pointer;
+    list-style: none;
+}
+
+details>p {
+    border-radius: 0 0 10px 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #8b7969;
+    padding: 2px 6px;
+    margin: 0;
+}
+
+.categories-paginate li {
+    display: inline-block;
+}
