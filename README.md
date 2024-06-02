@@ -28,6 +28,11 @@ Laravel環境構築
 - bootstrap 5.1.3　  ※最終日に追加、使用してないと思います
 - Jetstream 2.9  　※最終日に追加、使用してないと思います
 
+ER図
+
+![index drawio](https://github.com/kimihiro-nakano/confirmation-test/assets/162784504/1e78523d-69ca-40d0-aa68-c84781a22f87)
+
+
 URL
 
 - 開発環境 : http://localhost/
