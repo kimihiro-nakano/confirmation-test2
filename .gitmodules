@@ -1,0 +1,3 @@
+[submodule "confirmation-test2"]
+	path = confirmation-test2
+	url = git@github.com:kimihiro-nakano/confirmation-test.git
